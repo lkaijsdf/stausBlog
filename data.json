@@ -103,7 +103,7 @@
 {"key": "A888","name": "🔞A888","type": 0,"api": "http://m.7777688.com/inc/api.php","playUrl": "","searchable":0,"quickSearch":0},
 {"key": "番号","name": "🔞番号","type": 0,"api": "http://fhapi9.com/api.php/provide/vod/at/xml/","playUrl": "","searchable":0,"quickSearch":0},
 {"key": "鲨鱼","name": "🔞鲨鱼","type": 0,"api": "https://shayuapi.com/api.php/provide/vod/at/xml/","playUrl": "","searchable":0,"quickSearch":0},
-{"key": "速度","name": "🔞速度","type": 0,"api": "http://www.ggmmzy.com: 9999/inc/xml","playUrl": "","searchable":0,"quickSearch":0},
+{"key": "速度","name": "🔞速度","type": 0,"api": "http://www.ggmmzy.com:9999/inc/xml","playUrl": "","searchable":0,"quickSearch":0},
 {"key": "乐播","name": "🔞乐播","type": 0,"api": "https://lbapi9.com/api.php/provide/vod/at/xml/","playUrl": "","searchable":0,"quickSearch":0},
 {"key": "银龙","name": "🔞银龙","type": 0,"api": "https://yinlong.tv/api.php/provide/vod/at/xml","playUrl": "","searchable":0,"quickSearch":0},
 {"key": "99吧","name": "🔞99吧","type": 0,"api": "http://99zyba.com/api.php/provide/vod/at/xml","playUrl": "","searchable":0,"quickSearch":0},
